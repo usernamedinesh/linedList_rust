@@ -1,1 +1,1 @@
-# linedList_rust
+# linedList implementation for rust 
